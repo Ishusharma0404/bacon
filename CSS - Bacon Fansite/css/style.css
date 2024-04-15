@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+ img:hover
+{
+    background-color: rgb(48, 184, 175);
+    
+}
+
+.rcb { background-color: brown;
+
+}
+.srh{
+    background-color: bisque;
+}
+
+#heading
+{
+    color: palevioletred;
+}
+.circular  {
+    border-radius: 100%
+}
